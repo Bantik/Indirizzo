@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/daveworth/indirizzo}
   s.licenses = [%q{LGPL}]
   s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.9.2}
   s.summary = %q{Indirizzo is simply an extraction of the US Street Address parsing code from Geocoder::US}
 
   s.files         = `git ls-files`.split("\n")
